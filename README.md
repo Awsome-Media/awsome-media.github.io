@@ -1,2 +1,2 @@
 # Awsome-Media.github.io
-The Awsome Media Website on Github
+Development of a WebGL Digital Game
