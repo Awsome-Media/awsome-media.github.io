@@ -1,2 +1,2 @@
 # Awsome-Media.github.io
-Development of a WebGL Digital Game
+Early Beta Development of a WebGL Digital Game
